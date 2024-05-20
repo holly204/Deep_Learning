@@ -1,0 +1,10 @@
+# train and val data
+train: /WAVE/users/unix/lhuang2/dataset/images/train/
+val: /WAVE/users/unix/lhuang2/dataset/images/val/
+test: /WAVE/users/unix/lhuang2/dataset/images/test/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['0', '1', '2']
